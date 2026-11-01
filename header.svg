@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="SAGIZ. Human curiosity. Machine velocity.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="SAGIZ. Human curiosity. Machine velocity.">
 <defs><linearGradient id="nameColor" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#50ffad"/><stop offset="48%" stop-color="#28dcff"/><stop offset="100%" stop-color="#b56aff"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#163829" stroke-width=".7"/></pattern><linearGradient id="fade"><stop stop-color="#06150e"/><stop offset="1" stop-color="#090d12"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3"/></filter></defs>
-<rect width="1200" height="380" rx="20" fill="url(#fade)"/><rect width="1200" height="380" rx="20" fill="url(#grid)"/>
-<g fill="none" stroke="#50ffad"><circle cx="1000" cy="190" r="110" opacity=".2"/><circle cx="1000" cy="190" r="85" stroke-dasharray="90 30 10 30" opacity=".6"><animateTransform attributeName="transform" type="rotate" from="0 1000 190" to="360 1000 190" dur="24s" repeatCount="indefinite"/></circle><path d="M950 190h100m-50-50v100" opacity=".4"/></g>
-<rect x="0" y="0" width="1200" height="2" fill="#50ffad" opacity=".2"><animate attributeName="y" values="0;380" dur="7s" repeatCount="indefinite"/></rect>
-<text x="70" y="84" fill="#50ffad" font-family="monospace" font-size="15" letter-spacing="4">SYSTEM ONLINE / ALWAYS EVOLVING</text>
-<text x="66" y="206" fill="url(#nameColor)" font-family="Arial,sans-serif" font-size="110" font-weight="900" letter-spacing="10" filter="url(#glow)" opacity=".25">SAGIZ</text>
-<text x="66" y="206" fill="url(#nameColor)" font-family="Arial,sans-serif" font-size="110" font-weight="900" letter-spacing="10">SAGIZ</text>
-<text x="72" y="263" fill="#9eb9ad" font-family="monospace" font-size="22">Human curiosity. Machine velocity.</text>
-<rect x="72" y="305" width="42" height="4" fill="#50ffad"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></rect>
+<rect width="1200" height="250" rx="20" fill="url(#fade)"/><rect width="1200" height="250" rx="20" fill="url(#grid)"/>
+<g fill="none" stroke="#50ffad"><circle cx="1000" cy="125" r="85" opacity=".2"/><circle cx="1000" cy="125" r="65" stroke-dasharray="90 30 10 30" opacity=".6"><animateTransform attributeName="transform" type="rotate" from="0 1000 125" to="360 1000 125" dur="24s" repeatCount="indefinite"/></circle><path d="M960 125h80m-40-40v80" opacity=".4"/></g>
+<rect x="0" y="0" width="1200" height="2" fill="#50ffad" opacity=".2"><animate attributeName="y" values="0;250" dur="7s" repeatCount="indefinite"/></rect>
+<text x="70" y="48" fill="#50ffad" font-family="monospace" font-size="15" letter-spacing="4">SYSTEM ONLINE / ALWAYS EVOLVING</text>
+<text x="66" y="150" fill="url(#nameColor)" font-family="Arial,sans-serif" font-size="88" font-weight="900" letter-spacing="10" filter="url(#glow)" opacity=".25">SAGIZ</text>
+<text x="66" y="150" fill="url(#nameColor)" font-family="Arial,sans-serif" font-size="88" font-weight="900" letter-spacing="10">SAGIZ</text>
+<text x="72" y="193" fill="#9eb9ad" font-family="monospace" font-size="22">Human curiosity. Machine velocity.</text>
+<rect x="72" y="223" width="42" height="4" fill="#50ffad"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></rect>
 </svg>
+
 
 
