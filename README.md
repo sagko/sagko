@@ -24,7 +24,7 @@ I bring a broad technical perspective and a hands-on engineering mindset: trace 
 | **AI integration** | Connect useful intelligence to real workflows, with checks around its output. |
 | **Delivery** | Build end to end, validate behavior, and leave the system easier to evolve. |
 
-<h3><img src="tech-stack.svg" width="500" height="48" alt="Tech Stack & Expertise" /></h3>
+<h3><img src="tech-stack-v2.svg" width="500" height="48" alt="Tech Stack & Expertise" /></h3>
 
 **Languages**
 
@@ -71,5 +71,6 @@ Have an architectural bottleneck, an infrastructure challenge, or an AI idea tha
 
 ---
 <p align="center"><sub>SAGIZ · HUMAN CURIOSITY · MACHINE VELOCITY · CONTINUOUS EVOLUTION</sub></p>
+
 
 
