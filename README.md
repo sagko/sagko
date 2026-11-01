@@ -1,6 +1,6 @@
 <p align="center"><img src="header.svg" width="100%" alt="SAGIZ — Human curiosity. Machine velocity." /></p>
 
-<h2 align="center">Full-Stack Engineer · Systems Architect · Cloud & Edge AI</h2>
+<p align="center"><img src="roles.svg" width="900" height="64" alt="Full-Stack Engineer · Systems Architect · Cloud &amp; Edge AI" /></p>
 <p align="center"><strong>From interface to infrastructure. From bottleneck to breakthrough.</strong></p>
 
 <h3><img src="about-me.svg" width="360" height="48" alt="About Me" /></h3>
@@ -14,7 +14,7 @@ I bring a broad technical perspective and a hands-on engineering mindset: trace 
 - **AI approach:** Choose capabilities that fit the runtime, latency budget, and product need.
 - **Availability:** Open for architectural consulting, system audits, and high-impact engineering projects.
 
-### 🧠 How I Work
+<h3><img src="how-i-work.svg" width="500" height="48" alt="How I Work" /></h3>
 
 | Perspective | Engineering approach |
 | :--- | :--- |
@@ -24,7 +24,7 @@ I bring a broad technical perspective and a hands-on engineering mindset: trace 
 | **AI integration** | Connect useful intelligence to real workflows, with checks around its output. |
 | **Delivery** | Build end to end, validate behavior, and leave the system easier to evolve. |
 
-### 💻 Tech Stack & Expertise
+<h3><img src="tech-stack.svg" width="500" height="48" alt="Tech Stack & Expertise" /></h3>
 
 **Languages**
 
@@ -55,13 +55,13 @@ I bring a broad technical perspective and a hands-on engineering mindset: trace 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🟢 Contribution Radar
+<h3><img src="radar-title.svg" width="500" height="48" alt="Contribution Radar" /></h3>
 
 ![SAGIZ animated visual](activity-radar.svg)
 
 
 
-### 🤝 Let's Build
+<h3><img src="lets-build.svg" width="500" height="48" alt="Let's Build" /></h3>
 
 Have an architectural bottleneck, an infrastructure challenge, or an AI idea that needs a practical implementation? Let's map the constraints and build a clear path forward.
 
