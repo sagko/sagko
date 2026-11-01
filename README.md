@@ -55,6 +55,12 @@ I bring a broad technical perspective and a hands-on engineering mindset: trace 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+### 🟢 Contribution Radar
+
+![SAGIZ contribution radar — snapshot of real GitHub activity](activity-radar.svg)
+
+<sub>Activity snapshot: November 1, 2026. The scan is decorative; green cells represent recorded contributions.</sub>
+
 ### 🤝 Let's Build
 
 Have an architectural bottleneck, an infrastructure challenge, or an AI idea that needs a practical implementation? Let's map the constraints and build a clear path forward.
