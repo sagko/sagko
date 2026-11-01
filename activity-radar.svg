@@ -1,1 +1,275 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300"><defs><linearGradient id="s"><stop stop-color="#39ff9c" stop-opacity="0"/><stop offset="1" stop-color="#39ff9c" stop-opacity=".3"/></linearGradient><clipPath id="g"><rect x="30" y="90" width="905" height="140"/></clipPath></defs><rect width="960" height="300" rx="18" fill="#080f0c"/><rect x="1" y="1" width="958" height="298" rx="18" fill="none" stroke="#204c36"/><text x="32" y="43" fill="#52ffad" font-family="monospace" font-size="15" letter-spacing="3">SAGIZ / CONTRIBUTION RADAR</text><text x="32" y="72" fill="#88a897" font-family="monospace" font-size="12">REAL SIGNAL. CONTINUOUS EVOLUTION.</text><rect x="32" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="32" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="32" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="32" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="32" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="32" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="32" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="49" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="49" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="49" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="49" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="49" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="49" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="49" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="66" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="66" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="66" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="66" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="66" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="66" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="66" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="83" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="83" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="83" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="83" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="83" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="83" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="83" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="100" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="100" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="100" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="100" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="100" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="100" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="100" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="117" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="117" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="117" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="117" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="117" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="117" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="117" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="134" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="134" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="134" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="134" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="134" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="134" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="134" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="151" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="151" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="151" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="151" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="151" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="151" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="151" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="168" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="168" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="168" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="168" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="168" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="168" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="168" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="185" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="185" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="185" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="185" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="185" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="185" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="185" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="202" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="202" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="202" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="202" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="202" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="202" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="202" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="219" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="219" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="219" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="219" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="219" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="219" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="219" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="236" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="236" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="236" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="236" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="236" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="236" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="236" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="253" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="253" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="253" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="253" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="253" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="253" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="253" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="270" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="270" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="270" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="270" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="270" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="270" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="270" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="287" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="287" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="287" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="287" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="287" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="287" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="287" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="304" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="304" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="304" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="304" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="304" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="304" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="304" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="321" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="321" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="321" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="321" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="321" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="321" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="321" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="338" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="338" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="338" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="338" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="338" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="338" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="338" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="355" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="355" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="355" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="355" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="355" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="355" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="355" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="372" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="372" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="372" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="372" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="372" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="372" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="372" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="389" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="389" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="389" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="389" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="389" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="389" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="389" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="406" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="406" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="406" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="406" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="406" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="406" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="406" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="423" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="423" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="423" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="423" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="423" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="423" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="423" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="440" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="440" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="440" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="440" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="440" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="440" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="440" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="457" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="457" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="457" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="457" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="457" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="457" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="457" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="474" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="474" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="474" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="474" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="474" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="474" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="474" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="491" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="491" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="491" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="491" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="491" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="491" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="491" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="508" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="508" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="508" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="508" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="508" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="508" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="508" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="525" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="525" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="525" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="525" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="525" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="525" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="525" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="542" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="542" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="542" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="542" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="542" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="542" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="542" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="559" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="559" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="559" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="559" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="559" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="559" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="559" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="576" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="576" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="576" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="576" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="576" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="576" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="576" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="593" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="593" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="593" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="593" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="593" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="593" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="593" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="610" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="610" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="610" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="610" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="610" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="610" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="610" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="627" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="627" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="627" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="627" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="627" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="627" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="627" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="644" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="644" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="644" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="644" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="644" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="644" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="644" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="661" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="661" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="661" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="661" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="661" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="661" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="661" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="678" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="678" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="678" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="678" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="678" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="678" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="678" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="695" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="695" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="695" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="695" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="695" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="695" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="695" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="712" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="712" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="712" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="712" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="712" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="712" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="712" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="729" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="729" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="729" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="729" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="729" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="729" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="729" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="746" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="746" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="746" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="746" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="746" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="746" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="746" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="763" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="763" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="763" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="763" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="763" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="763" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="763" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="780" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="780" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="780" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="780" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="780" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="780" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="780" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="797" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="797" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="797" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="797" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="797" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="797" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="797" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="814" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="814" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="814" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="814" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="814" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="814" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="814" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="831" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="831" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="831" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="831" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="831" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="831" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="831" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="848" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="848" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="848" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="848" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="848" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="848" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="848" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="865" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="865" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="865" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="865" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="865" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="865" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="865" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="882" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="882" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="882" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="882" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="882" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="882" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="882" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="899" y="100" width="12" height="12" rx="3" fill="#15271f"/><rect x="899" y="117" width="12" height="12" rx="3" fill="#15271f"/><rect x="899" y="134" width="12" height="12" rx="3" fill="#15271f"/><rect x="899" y="151" width="12" height="12" rx="3" fill="#15271f"/><rect x="899" y="168" width="12" height="12" rx="3" fill="#15271f"/><rect x="899" y="185" width="12" height="12" rx="3" fill="#15271f"/><rect x="899" y="202" width="12" height="12" rx="3" fill="#15271f"/><rect x="916" y="100" width="12" height="12" rx="3" fill="#39ff9c"/><g clip-path="url(#g)"><g><animateTransform attributeName="transform" type="translate" values="-180 0;960 0;-180 0" dur="14s" repeatCount="indefinite"/><rect x="0" y="90" width="160" height="140" fill="url(#s)"/><path d="M160 90V230" stroke="#5bffb4" stroke-width="2"/><text x="140" y="165" text-anchor="middle" font-size="28" fill="#d3ffe6" font-family="monospace">S</text></g></g><circle cx="922" cy="106" r="15" fill="none" stroke="#52ffad"><animate attributeName="r" values="8;22" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite"/></circle><path d="M32 246H928" stroke="#234330"/><text x="32" y="274" fill="#8da99b" font-family="monospace" font-size="11">GITHUB SNAPSHOT / 2026-11-01 / 4 CONTRIBUTIONS / PREVIOUS 12 MONTHS</text><circle cx="920" cy="40" r="5" fill="#52ffad"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle></svg>
+<svg width="860" height="260" viewBox="0 0 860 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dark Background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040a06" />
+      <stop offset="50%" stop-color="#020604" />
+      <stop offset="100%" stop-color="#000201" />
+    </linearGradient>
+
+    <!-- Scanline CRT Texture -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#000000" stroke-width="1.2" opacity="0.4" />
+    </pattern>
+
+    <!-- Medium-Long Phosphor Trail Gradients (340px) -->
+    <!-- Forward: Tail to the left, glowing edge at right -->
+    <linearGradient id="trailForward" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="30%" stop-color="#ffffff" stop-opacity="0.25" />
+      <stop offset="65%" stop-color="#ffffff" stop-opacity="0.65" />
+      <stop offset="95%" stop-color="#ffffff" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="1" />
+    </linearGradient>
+
+    <!-- Backward: Glowing edge at left, tail to the right -->
+    <linearGradient id="trailBackward" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1" />
+      <stop offset="5%" stop-color="#ffffff" stop-opacity="0.95" />
+      <stop offset="35%" stop-color="#ffffff" stop-opacity="0.65" />
+      <stop offset="70%" stop-color="#ffffff" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="radarGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .mono-hud { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace; letter-spacing: 1.5px; }
+      .header-title { font-size: 15px; font-weight: 700; fill: #00ffa3; }
+      .header-sub { font-size: 10px; font-weight: 500; fill: #00cc83; opacity: 0.75; letter-spacing: 2px; }
+      .footer-hud { font-size: 10px; font-weight: 500; fill: #00cc83; opacity: 0.85; letter-spacing: 1.2px; }
+      .hud-val { fill: #00ffa3; font-weight: 700; }
+
+      /* Balanced Smooth Sweep: 8.5 Seconds */
+      @keyframes radarSweep {
+        0% { transform: translateX(-340px); }
+        48% { transform: translateX(840px); }
+        50% { transform: translateX(840px); }
+        98% { transform: translateX(-340px); }
+        100% { transform: translateX(-340px); }
+      }
+
+      @keyframes showForwardTrail {
+        0%, 48% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes showBackwardTrail {
+        0%, 48% { opacity: 0; }
+        50%, 98% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+
+      @keyframes waveScroll {
+        0% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: -120; }
+      }
+
+      .sweep-group {
+        animation: radarSweep 8.5s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+      }
+      .forward-beam {
+        animation: showForwardTrail 8.5s step-end infinite;
+      }
+      .backward-beam {
+        animation: showBackwardTrail 8.5s step-end infinite;
+      }
+      .osc-wave {
+        stroke-dasharray: 8 4 14 3;
+        animation: waveScroll 3s linear infinite;
+      }
+    </style>
+
+    <!-- Strict Reveal Mask (Completely Black Outside Beam Area) -->
+    <mask id="sonarScanMask">
+      <rect x="0" y="0" width="860" height="260" fill="#000000" />
+      <g class="sweep-group">
+        <!-- Forward movement trail -->
+        <g class="forward-beam">
+          <rect x="0" y="65" width="340" height="120" fill="url(#trailForward)" />
+          <rect x="335" y="60" width="6" height="130" fill="#ffffff" />
+        </g>
+        <!-- Backward movement trail -->
+        <g class="backward-beam">
+          <rect x="0" y="65" width="340" height="120" fill="url(#trailBackward)" />
+          <rect x="0" y="60" width="6" height="130" fill="#ffffff" />
+        </g>
+      </g>
+    </mask>
+
+    <!-- Base Dim Grid Template -->
+    <pattern id="idleDotMatrix" width="14" height="14" patternUnits="userSpaceOnUse">
+      <rect x="1" y="1" width="10" height="10" rx="2.5" fill="#08140c" />
+    </pattern>
+  </defs>
+
+  <!-- ================= BASE FRAME & HUD BRACKETS ================= -->
+  <rect width="860" height="260" rx="18" fill="url(#bgGrad)" stroke="#11291b" stroke-width="1.8" />
+  <rect x="3" y="3" width="854" height="254" rx="15" fill="none" stroke="#00ffa3" stroke-width="0.5" stroke-opacity="0.18" />
+
+  <!-- Tactical Corner Brackets [ + ] -->
+  <path d="M 16 28 L 16 16 L 28 16" fill="none" stroke="#00ffa3" stroke-width="1.6" opacity="0.7" />
+  <path d="M 844 28 L 844 16 L 832 16" fill="none" stroke="#00ffa3" stroke-width="1.6" opacity="0.7" />
+  <path d="M 16 232 L 16 244 L 28 244" fill="none" stroke="#00ffa3" stroke-width="1.6" opacity="0.7" />
+  <path d="M 844 232 L 844 244 L 832 244" fill="none" stroke="#00ffa3" stroke-width="1.6" opacity="0.7" />
+
+  <!-- ================= HEADER ================= -->
+  <text x="36" y="38" class="mono-hud header-title">SAGIZ / CONTRIBUTION RADAR</text>
+  <text x="36" y="56" class="mono-hud header-sub">REAL SIGNAL. CONTINUOUS EVOLUTION.</text>
+
+  <!-- Live Sonar Ping (Right Target) -->
+  <g transform="translate(810, 36)">
+    <circle cx="0" cy="0" r="4.5" fill="#00ffa3" filter="url(#radarGlow)" />
+    <circle cx="0" cy="0" r="4.5" fill="none" stroke="#00ffa3" stroke-width="1.2">
+      <animate attributeName="r" values="4.5;24" dur="2.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.9;0" dur="2.8s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Reticle Box -->
+  <rect x="798" y="93" width="24" height="24" rx="6" fill="#031109" stroke="#00ffa3" stroke-width="1.4" opacity="0.9" />
+  <circle cx="810" cy="105" r="4" fill="#00ffa3" filter="url(#softGlow)" />
+
+  <!-- ================= PASSIVE MATRIX LAYER (Empty dark dots) ================= -->
+  <g transform="translate(36, 78)">
+    <rect width="742" height="98" fill="url(#idleDotMatrix)" />
+  </g>
+
+  <!-- ================= REVEALED LAYER (Hidden behind mask until beam passes) ================= -->
+  <g mask="url(#sonarScanMask)">
+    <g transform="translate(36, 78)">
+      
+      <!-- Random Background Ambient Activity -->
+      <g fill="#00ffa3" opacity="0.45">
+        <rect x="14" y="14" width="10" height="10" rx="2.5" />
+        <rect x="42" y="28" width="10" height="10" rx="2.5" />
+        <rect x="70" y="56" width="10" height="10" rx="2.5" />
+        <rect x="112" y="14" width="10" height="10" rx="2.5" />
+        <rect x="140" y="70" width="10" height="10" rx="2.5" />
+        <rect x="602" y="28" width="10" height="10" rx="2.5" />
+        <rect x="630" y="14" width="10" height="10" rx="2.5" />
+        <rect x="672" y="56" width="10" height="10" rx="2.5" />
+        <rect x="714" y="28" width="10" height="10" rx="2.5" />
+      </g>
+
+      <!-- ================= PERFECTLY CENTERED "SAGIZ" (Offset x: 212) ================= -->
+      <g fill="#00ffa3" filter="url(#radarGlow)">
+        <!-- LETTER 'S' (x: 212) -->
+        <g transform="translate(212, 14)">
+          <rect x="0" y="0" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="14" y="0" width="10" height="10" rx="2.5" />
+          <rect x="28" y="0" width="10" height="10" rx="2.5" />
+          <rect x="0" y="14" width="10" height="10" rx="2.5" />
+          <rect x="0" y="28" width="10" height="10" rx="2.5" />
+          <rect x="14" y="28" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="28" y="28" width="10" height="10" rx="2.5" />
+          <rect x="28" y="42" width="10" height="10" rx="2.5" />
+          <rect x="0" y="56" width="10" height="10" rx="2.5" />
+          <rect x="14" y="56" width="10" height="10" rx="2.5" />
+          <rect x="28" y="56" width="10" height="10" rx="2.5" fill="#e6fffa" />
+        </g>
+
+        <!-- LETTER 'A' (x: 282) -->
+        <g transform="translate(282, 14)">
+          <rect x="14" y="0" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="0" y="14" width="10" height="10" rx="2.5" />
+          <rect x="28" y="14" width="10" height="10" rx="2.5" />
+          <rect x="0" y="28" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="14" y="28" width="10" height="10" rx="2.5" />
+          <rect x="28" y="28" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="0" y="42" width="10" height="10" rx="2.5" />
+          <rect x="28" y="42" width="10" height="10" rx="2.5" />
+          <rect x="0" y="56" width="10" height="10" rx="2.5" />
+          <rect x="28" y="56" width="10" height="10" rx="2.5" />
+        </g>
+
+        <!-- LETTER 'G' (x: 352) -->
+        <g transform="translate(352, 14)">
+          <rect x="14" y="0" width="10" height="10" rx="2.5" />
+          <rect x="28" y="0" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="0" y="14" width="10" height="10" rx="2.5" />
+          <rect x="0" y="28" width="10" height="10" rx="2.5" />
+          <rect x="28" y="28" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="0" y="42" width="10" height="10" rx="2.5" />
+          <rect x="28" y="42" width="10" height="10" rx="2.5" />
+          <rect x="14" y="56" width="10" height="10" rx="2.5" />
+          <rect x="28" y="56" width="10" height="10" rx="2.5" fill="#e6fffa" />
+        </g>
+
+        <!-- LETTER 'I' (x: 422) -->
+        <g transform="translate(422, 14)">
+          <rect x="0" y="0" width="10" height="10" rx="2.5" />
+          <rect x="14" y="0" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="28" y="0" width="10" height="10" rx="2.5" />
+          <rect x="14" y="14" width="10" height="10" rx="2.5" />
+          <rect x="14" y="28" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="14" y="42" width="10" height="10" rx="2.5" />
+          <rect x="0" y="56" width="10" height="10" rx="2.5" />
+          <rect x="14" y="56" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="28" y="56" width="10" height="10" rx="2.5" />
+        </g>
+
+        <!-- LETTER 'Z' (x: 492) -->
+        <g transform="translate(492, 14)">
+          <rect x="0" y="0" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="14" y="0" width="10" height="10" rx="2.5" />
+          <rect x="28" y="0" width="10" height="10" rx="2.5" />
+          <rect x="28" y="14" width="10" height="10" rx="2.5" />
+          <rect x="14" y="28" width="10" height="10" rx="2.5" fill="#e6fffa" />
+          <rect x="0" y="42" width="10" height="10" rx="2.5" />
+          <rect x="0" y="56" width="10" height="10" rx="2.5" />
+          <rect x="14" y="56" width="10" height="10" rx="2.5" />
+          <rect x="28" y="56" width="10" height="10" rx="2.5" fill="#e6fffa" />
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ================= VISIBLE RADAR SWEEP LINE ================= -->
+  <g class="sweep-group">
+    <!-- Forward Visible Sweep (Moving Right) -->
+    <g class="forward-beam">
+      <rect x="0" y="74" width="340" height="104" fill="url(#trailForward)" opacity="0.32" />
+      <line x1="340" y1="70" x2="340" y2="182" stroke="#00ffa3" stroke-width="2.5" filter="url(#radarGlow)" />
+      <line x1="340" y1="74" x2="340" y2="178" stroke="#ffffff" stroke-width="1.2" />
+    </g>
+    <!-- Backward Visible Sweep (Moving Left) -->
+    <g class="backward-beam">
+      <rect x="0" y="74" width="340" height="104" fill="url(#trailBackward)" opacity="0.32" />
+      <line x1="0" y1="70" x2="0" y2="182" stroke="#00ffa3" stroke-width="2.5" filter="url(#radarGlow)" />
+      <line x1="0" y1="74" x2="0" y2="178" stroke="#ffffff" stroke-width="1.2" />
+    </g>
+  </g>
+
+  <!-- ================= CRT SCANLINE OVERLAY ================= -->
+  <rect x="0" y="0" width="860" height="260" rx="18" fill="url(#scanlines)" pointer-events="none" />
+
+  <!-- ================= DIVIDER & OSCILLOSCOPE ================= -->
+  <g transform="translate(36, 202)">
+    <line x1="0" y1="0" x2="620" y2="0" stroke="#0d2417" stroke-width="1.2" />
+    <path d="M 620 0 L 650 0 L 656 -8 L 662 8 L 668 -12 L 674 10 L 680 -4 L 686 0 L 792 0" fill="none" stroke="#00ffa3" stroke-width="1.4" class="osc-wave" opacity="0.85" filter="url(#softGlow)" />
+  </g>
+
+  <!-- ================= TELEMETRY FOOTER ================= -->
+  <text x="36" y="230" class="mono-hud footer-hud">
+    SYS.RADAR <tspan fill="#00ffa3" opacity="0.5">/</tspan> 
+    FREQ: <tspan class="hud-val">142.8MHz</tspan> <tspan fill="#00ffa3" opacity="0.5">/</tspan> 
+    IDENT: <tspan class="hud-val">SAGIZ</tspan> <tspan fill="#00ffa3" opacity="0.5">/</tspan> 
+    CYCLE: <tspan class="hud-val">PING-PONG 8.5s</tspan> <tspan fill="#00ffa3" opacity="0.5">/</tspan> 
+    STATUS: <tspan class="hud-val">LIVE LOCK</tspan>
+  </text>
+</svg>

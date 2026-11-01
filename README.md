@@ -57,9 +57,9 @@ I bring a broad technical perspective and a hands-on engineering mindset: trace 
 
 ### 🟢 Contribution Radar
 
-![SAGIZ contribution radar — snapshot of real GitHub activity](activity-radar.svg)
+![SAGIZ animated visual](activity-radar.svg)
 
-<sub>Activity snapshot: November 1, 2026. The scan is decorative; green cells represent recorded contributions.</sub>
+
 
 ### 🤝 Let's Build
 
@@ -71,3 +71,4 @@ Have an architectural bottleneck, an infrastructure challenge, or an AI idea tha
 
 ---
 <p align="center"><sub>SAGIZ · HUMAN CURIOSITY · MACHINE VELOCITY · CONTINUOUS EVOLUTION</sub></p>
+
