@@ -1,10 +1,16 @@
 <p align="center"><img src="header.svg" width="100%" alt="SAGKO — Human curiosity. Machine velocity." /></p>
 
-<h3 align="center">Broad perspective. Relentless curiosity. A builder's mindset.</h3>
+<h3 align="center">I'm SAGIZ. Systems thinker. Relentless problem solver. Builder by instinct.</h3>
 
-I connect ideas across technology and turn complexity into a clear path forward. My approach combines a wide technical perspective, hands-on experimentation, and a drive to understand how things work beneath the surface.
+I thrive where technology gets complex. With broad technical knowledge and a hands-on mindset, I connect the dots between tools, systems, and ideas—and turn that understanding into practical solutions. I like digging deeper, challenging assumptions, and finding the path others overlook.
 
-AI is part of that toolkit: a way to explore further, iterate faster, and give ambitious ideas room to become real.
+AI is my force multiplier: a way to explore further, iterate faster, and bring ambitious ideas within reach. My curiosity spans software, automation, and the systems that make everything work together.
+
+### `00 / BUILD LOG`
+
+**2026-11-01 — SAGIZ identity launched.** Original robot artwork, animated SVG header, and a redesigned profile. Next: document practical experiments with reproducible steps and clear results.
+
+[Read the experiment playbook →](EXPERIMENTS.md)
 
 ### `01 / MINDSET`
 
