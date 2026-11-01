@@ -3,7 +3,7 @@
 <h2 align="center">Full-Stack Engineer · Systems Architect · Cloud & Edge AI</h2>
 <p align="center"><strong>From interface to infrastructure. From bottleneck to breakthrough.</strong></p>
 
-### ⚡ About Me
+<h3><img src="about-me.svg" width="360" height="48" alt="About Me" /></h3>
 
 I'm **SAGIZ**. I design and deploy end-to-end software solutions, connecting product experience with the architecture that makes it scale. My focus is clean, resilient code, efficient cloud infrastructure, and lightweight AI capabilities that solve practical problems.
 
@@ -71,4 +71,5 @@ Have an architectural bottleneck, an infrastructure challenge, or an AI idea tha
 
 ---
 <p align="center"><sub>SAGIZ · HUMAN CURIOSITY · MACHINE VELOCITY · CONTINUOUS EVOLUTION</sub></p>
+
 
